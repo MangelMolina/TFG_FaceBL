@@ -1,0 +1,4 @@
+ninja: Entering directory `C:\Users\migue\Desktop\FaceBL_FrecuenciaDinamico\app\.cxx\cmake\debug\x86_64'
+[1/2] Building CXX object CMakeFiles/javacvtest.dir/javacvtest.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[2/2] Linking CXX shared library C:\Users\migue\Desktop\FaceBL_FrecuenciaDinamico\app\build\intermediates\cmake\debug\obj\x86_64\libjavacvtest.so

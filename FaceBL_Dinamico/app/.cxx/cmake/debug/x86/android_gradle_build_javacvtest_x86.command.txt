@@ -1,0 +1,7 @@
+Executable : C:\Users\migue\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+C:\Users\migue\Desktop\FaceBL_FrecuenciaDinamico\app\.cxx\cmake\debug\x86
+javacvtest
+jvmArgs : 
+

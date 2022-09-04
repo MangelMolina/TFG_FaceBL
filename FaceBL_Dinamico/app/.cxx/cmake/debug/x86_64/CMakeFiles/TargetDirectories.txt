@@ -1,0 +1,3 @@
+C:/Users/migue/Desktop/FaceBL_FrecuenciaDinamico/app/.cxx/cmake/debug/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/migue/Desktop/FaceBL_FrecuenciaDinamico/app/.cxx/cmake/debug/x86_64/CMakeFiles/javacvtest.dir
+C:/Users/migue/Desktop/FaceBL_FrecuenciaDinamico/app/.cxx/cmake/debug/x86_64/CMakeFiles/rebuild_cache.dir

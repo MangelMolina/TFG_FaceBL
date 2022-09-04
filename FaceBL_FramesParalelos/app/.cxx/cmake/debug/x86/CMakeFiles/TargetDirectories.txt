@@ -1,0 +1,3 @@
+C:/Users/migue/Desktop/FaceBL_Dinamico/app/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+C:/Users/migue/Desktop/FaceBL_Dinamico/app/.cxx/cmake/debug/x86/CMakeFiles/javacvtest.dir
+C:/Users/migue/Desktop/FaceBL_Dinamico/app/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir

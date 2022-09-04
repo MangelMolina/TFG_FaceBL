@@ -1,0 +1,47 @@
+{
+  "stringTable": {
+    "0": "C:/Users/migue/Desktop/FaceBL_Dinamico/app/.cxx/cmake/debug/arm64-v8a",
+    "1": "--target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/migue/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/migue/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Djavacvtest_EXPORTS -isystem C:/Users/migue/Desktop/OpenCV-android-sdk/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fopenmp -static-openmp -O0 -fno-limit-debug-info -fPIC -std=gnu++11"
+  },
+  "buildFiles": [
+    "C:\\Users\\migue\\Desktop\\OpenCV-android-sdk\\sdk\\native\\jni\\OpenCVConfig-version.cmake",
+    "C:\\Users\\migue\\Desktop\\OpenCV-android-sdk\\sdk\\native\\jni\\OpenCVConfig.cmake",
+    "C:\\Users\\migue\\Desktop\\OpenCV-android-sdk\\sdk\\native\\jni\\abi-arm64-v8a\\OpenCVModules-release.cmake",
+    "C:\\Users\\migue\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\migue\\Desktop\\OpenCV-android-sdk\\sdk\\native\\jni\\abi-arm64-v8a\\OpenCVConfig.cmake",
+    "C:\\Users\\migue\\Desktop\\OpenCV-android-sdk\\sdk\\native\\jni\\abi-arm64-v8a\\OpenCVModules.cmake",
+    "C:\\Users\\migue\\Desktop\\FaceBL_Dinamico\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "C:\\Users\\migue\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\migue\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\migue\\Desktop\\FaceBL_Dinamico\\app\\.cxx\\cmake\\debug\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\migue\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\migue\\Desktop\\FaceBL_Dinamico\\app\\.cxx\\cmake\\debug\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "javacvtest-Debug-arm64-v8a": {
+      "buildCommand": "C:\\Users\\migue\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\migue\\Desktop\\FaceBL_Dinamico\\app\\.cxx\\cmake\\debug\\arm64-v8a\" javacvtest",
+      "buildType": "debug",
+      "toolchain": "1164301291",
+      "abi": "arm64-v8a",
+      "artifactName": "javacvtest",
+      "files": [
+        {
+          "src": "C:\\Users\\migue\\Desktop\\FaceBL_Dinamico\\app\\src\\main\\cpp\\javacvtest.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "C:\\Users\\migue\\Desktop\\FaceBL_Dinamico\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libjavacvtest.so"
+    }
+  },
+  "toolchains": {
+    "1164301291": {
+      "cppCompilerExecutable": "C:\\Users\\migue\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
